@@ -1,5 +1,5 @@
-Technical test
-===================
+Simple Rest API over Docker
+===========================
 
 Overview
 --------

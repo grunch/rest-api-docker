@@ -1,0 +1,7 @@
+database:
+    driver: pdo_mysql
+    host: mysqldb
+    dbname: api
+    user: root
+    password: pass
+    charset: utf8
